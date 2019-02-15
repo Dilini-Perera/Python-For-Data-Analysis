@@ -34,3 +34,14 @@ Prédire si le client X paiera ou non la prochaine facture
 8. default payment next month : retard de paiement 
 - 1 = Oui
 - 2 = Non
+
+#### ! Imports info !
+
+Les imports dans ce notebook :
+- pandas 
+- numpy
+- seaborn
+- sklearn
+- catboost (pip3 command)
+- lightgbm
+- xgboost
